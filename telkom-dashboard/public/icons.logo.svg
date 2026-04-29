@@ -1,0 +1,5 @@
+import logoMitratel from './assets/logo-mitratel.png';
+import logoTA from './assets/logo-ta.png';
+
+// Lalu gunakan variabel import tersebut sebagai src
+// <img src={logoMitratel} ... />
